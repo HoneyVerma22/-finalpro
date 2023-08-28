@@ -149,7 +149,7 @@ $(function () {
 	
 	/* Contact-form
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
-	$.validator.setDefaults( {
+	/*$.validator.setDefaults( {
 		submitHandler: function () {
 			alert( "submitted!" );
 		}
